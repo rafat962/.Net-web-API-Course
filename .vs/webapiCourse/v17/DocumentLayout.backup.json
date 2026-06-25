@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|g:\\iti\\21-mvc\\web_api\\webapicourse\\webapicourse\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|solutionrelative:webapicourse\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|g:\\iti\\21-mvc\\web_api\\webapicourse\\webapicourse\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|solutionrelative:webapicourse\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|g:\\iti\\21-mvc\\web_api\\webapicourse\\webapicourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|solutionrelative:webapicourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|g:\\iti\\21-mvc\\web_api\\webapicourse\\webapicourse\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|solutionrelative:webapicourse\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|g:\\iti\\21-mvc\\web_api\\webapicourse\\webapicourse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|solutionrelative:webapicourse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|g:\\iti\\21-mvc\\web_api\\webapicourse\\webapicourse\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0CAAB-0D78-42F3-8380-699A7FD95FD5}|webapiCourse\\webapiCourse.csproj|solutionrelative:webapicourse\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1490,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "webapiCourse\\Controllers\\CategoryController.cs",
+              "ToolTip": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "webapiCourse\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:47:01.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\appsettings.json",
+              "RelativeDocumentMoniker": "webapiCourse\\appsettings.json",
+              "ToolTip": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\appsettings.json",
+              "RelativeToolTip": "webapiCourse\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-25T08:36:47.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Program.cs",
+              "RelativeDocumentMoniker": "webapiCourse\\Program.cs",
+              "ToolTip": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Program.cs",
+              "RelativeToolTip": "webapiCourse\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T08:21:57.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "webapiCourse\\Controllers\\AccountController.cs",
+              "ToolTip": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "webapiCourse\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:14:45.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "webapiCourse\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "webapiCourse\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T08:16:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataDBContext.cs",
+              "DocumentMoniker": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Data\\DataDBContext.cs",
+              "RelativeDocumentMoniker": "webapiCourse\\Data\\DataDBContext.cs",
+              "ToolTip": "G:\\iti\\21-mvc\\web_api\\webapiCourse\\webapiCourse\\Data\\DataDBContext.cs",
+              "RelativeToolTip": "webapiCourse\\Data\\DataDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:14:00.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
